@@ -1,0 +1,1 @@
+-r api_teste/requirements.txt
